@@ -1,0 +1,19 @@
+# virtual environment
+venv/
+
+# databases
+voters_data/
+.pgadmin_data/
+pgadmin_data/
+postgres_data/
+
+# checkpoints
+checkpoints/
+
+.idea/
+__pycache__
+rough-work
+streaming-votes.iml
+test.py
+ab.py
+
