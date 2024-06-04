@@ -1,0 +1,10 @@
+confluent_kafka
+kafka-python
+psycopg2
+simplejson
+pyspark
+pyarrow
+requests
+matplotlib
+streamlit
+streamlit-autorefresh
